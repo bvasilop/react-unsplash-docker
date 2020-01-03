@@ -25,7 +25,10 @@ yarn-error.log*
 # Temporary env files
 /public/env-config.js
 env-config.js
+<<<<<<< HEAD
 
 # dotenv environment variables file
 .env
 .env.test
+=======
+>>>>>>> 8eae6f85821db91a1f72908f1fd2cf2fc8897436
