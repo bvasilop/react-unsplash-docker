@@ -5,4 +5,4 @@ services:
     ports:
       - "5000:80"
     environment:
-      - "API_URL=https://evening-spire-73977.herokuapp.com/"
+      - "API_KEY=Client-ID 61d77b773ab1ee4df8113774c965eef2286fd4987145f4b6182a27da3d798474"
