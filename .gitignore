@@ -27,6 +27,6 @@ yarn-error.log*
 env-config.js
 
 # dotenv environment variables file
-.env
+# .env
 .env.test
 netlify.toml
